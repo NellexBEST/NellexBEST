@@ -13,7 +13,7 @@ steam_login: '9259' # SteamCommunity ID (Optional)
 instagram_login: 'nellexru' # Instagram login (Optional)
 twitter_login: '' # Twitter login (Optional)
 website_url: 'https://nellex.me' # Website url (Optional)
-cv_url: '' # CV URL (Optional)
+cv_url: 'https://raw.githubusercontent.com/NellexBEST/NellexBEST/main/CV2024.pdf' # CV URL (Optional)
 
 profile_theme: 'dark' # Profile style
 profile_color: 'rgb(32, 34, 37)' # Profile border color
